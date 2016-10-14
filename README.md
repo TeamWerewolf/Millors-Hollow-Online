@@ -5,6 +5,11 @@
 - For Online View: [Project Proposal of Miller's Hollow Online](https://github.com/TeamWerewolf/project-proposal/blob/master/project_proposal.pdf)
 - For Download: [Project Proposal of Miller's Hollow Online](https://github.com/TeamWerewolf/project-proposal/raw/master/project_proposal.pdf)
 
+## Full Project Specification
+
+- For Online View: [Project Specification of Miller's Hollow Online](https://github.com/TeamWerewolf/project-specification/blob/master/project_specification.pdf)
+- For Download: [Project Specification of Miller's Hollow Online](https://github.com/TeamWerewolf/project-specification/raw/master/project_specification.pdf)
+
 ## What is Werewolves of Miller's Hollow?
 Werewolves of Miller's Hollow(Werewolves) is a popular offline discussion game. In the beginning of the game, each player gets one role, which could be a werewolf, citizen or some special roles, such as seer and witch. The game proceeds in alternating night and day rounds.
 
